@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+header{
+    background:url('../image/header-bg.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding:100px 0;
+}
+.left{
+    width:40%;
+    float:left;
+    margin-left:10%;
+    display:inline-block;
+    margin-top:100px;
+}
+.left .h1{
+    color:#EC4F90;
+    font-weight:700;
+}
+p{
+    color:#979797;
+    font-weight:700;
+}
+a{
+    background-image:linear-gradient(45deg,#EC4F92,#ED4B74);
+    padding:10px 30px;
+    border-radius:5px;
+    color:white;
+    font-weight:700;
+    text-decoration:none;
+    list-style:none;
+    margin-top:20px;
+    display:inline-block;
+}
+.right{
+    display:inline-block;
+    width:40%;
+    margin-right:10%;
+}
+img{
+    width:100%;
+    height:auto;
+}
+.dream-second{
+    margin-top:200px;
+    margin-left:60px;
+    margin-right:5%;
+}
+.section1{
+    background:url('../image/biography-bg.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-bottom:450px;
+}
+.work{
+    width:23%;
+    float:left;
+    margin-left:2%;
+}
+.work img{
+    width: 100%;
+    height:auto;
+}
+.first{
+    margin-left:12%;
+}
+.section2 h1{
+    margin-bottom:70px;
+    text-align:center;
+    font-size:40px;
+}
+.section2{
+    background:url('../image/latest-work-bg.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:100px;
+    padding-bottom:350px;
+    display:block;
+}
+.section3{
+    background:url('../image/footer-bg.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.hub{
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding:100px;
+}
+.section3 h1{
+    font-size:40px;
+    font-weight:700;
+}
+.section3 .Bruce{
+    padding-top: 50px;
+}
+.section3 p{
+    padding-bottom:30px;
+}
+.section3 .lorem{
+    width:70%;
+    margin:auto;
+}
+.section3 a{
+    width:100%;
+    margin-top:50px;
+}
+.section3 a p{
+    padding:0;
+    padding-top:50px;
+}
+.section3 a h1{
+    font-size:25px;
+    margin-bottom:50px;
+    padding:0;
+}
